@@ -22,7 +22,7 @@ import com.firebase.client.ValueEventListener;
 
 public class MainActivity extends AppCompatActivity {
 
-    String firebaseTable = "https://flickering-inferno-9479.firebaseio.com/todoItems";
+    String firebaseTable = "https://YOUR_FIREBASE_APP_API.firebaseio.com/todoItems";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
